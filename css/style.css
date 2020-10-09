@@ -19,6 +19,7 @@ margin-bottom: 40px;
   top: 0;
   right: 0;
   background-color: green;
+  padding: 2px;
 }
 
 .piccolo{
@@ -26,11 +27,14 @@ margin-bottom: 40px;
 }
 
 .cuore{
-position: absolute;
-left:50%;
-bottom:0;
-color: red;
-display: none;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  color: red;
+  font-size: 30px;
+  width: 100%;
+  display: none;
+
 }
 
 .product:hover .cuore{
