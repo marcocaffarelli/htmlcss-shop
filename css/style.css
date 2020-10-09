@@ -21,6 +21,10 @@ margin-bottom: 40px;
   background-color: green;
 }
 
+.piccolo{
+  background-color: red;
+}
+
 .cuore{
 position: absolute;
 left:50%;
